@@ -1,0 +1,15 @@
+{
+  "originHash" : "8128216e682d5a0925569783951acbfe2efa8559b27fdabd97b96e255ecb216c",
+  "pins" : [
+    {
+      "identity" : "methods",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/leviouwendijk/Methods.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "b36a6e04f36e69ed149b2d9c2885a9d882064793"
+      }
+    }
+  ],
+  "version" : 3
+}
