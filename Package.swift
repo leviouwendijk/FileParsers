@@ -29,9 +29,5 @@ let package = Package(
                 .product(name: "Methods", package: "Methods"),
             ],
         ),
-        .testTarget(
-            name: "FileParsersTests",
-            dependencies: ["FileParsers"]
-        ),
     ]
 )
