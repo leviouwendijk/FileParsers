@@ -16,7 +16,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        // .package(url: "https://github.com/leviouwendijk/Parsing.git", branch: "master"),
+        // .package(url: "https://github.com/swift-langs/Parsing.git", branch: "master"),
         .package(url: "https://github.com/leviouwendijk/Methods.git", branch: "master"),
     ],
     targets: [
