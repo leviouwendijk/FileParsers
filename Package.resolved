@@ -4,7 +4,7 @@
     {
       "identity" : "methods",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Methods.git",
+      "location" : "https://github.com/swift-lco/Methods.git",
       "state" : {
         "branch" : "master",
         "revision" : "232c028e073017ea429ba71a5e0b09dbe7f98e29"

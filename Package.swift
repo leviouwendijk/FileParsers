@@ -17,7 +17,7 @@ let package = Package(
     ],
     dependencies: [
         // .package(url: "https://github.com/swift-langs/Parsing.git", branch: "master"),
-        .package(url: "https://github.com/leviouwendijk/Methods.git", branch: "master"),
+        .package(url: "https://github.com/swift-lco/Methods.git", branch: "master"),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
